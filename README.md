@@ -4,6 +4,7 @@ Program can be run in Microsoft Visual Studio 2013 or Unix shells. See README on
 TO run in Unix shells, upload Application_of_binary_search.c, lab1spr14.a.dat, lab1spr14.b.dat into the Unix shell remote server and type the following command:
 
 gcc –o a.out Application_of_binary_search.c
+
 ./a.out
 
 When prompt for Type input:
